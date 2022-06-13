@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script lang="ts">
 import Menu from "@/components/Menu.vue";
 export default {
   components: {Menu}
@@ -7,7 +7,8 @@ export default {
 </script>
 
 <template>
-  <main>
-    <Menu />
-  </main>
+  <Menu />
 </template>
+
+<style lang="css">
+</style>
