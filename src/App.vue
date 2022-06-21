@@ -14,7 +14,7 @@ import { RouterLink, RouterView } from 'vue-router'
   background-image: url("/src/assets/images/background.png");
   background-size: cover;
   background-position: center;
-  padding: 2rem;
+  padding: 0;
   font-weight: normal;
 
   display: flex;
